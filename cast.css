@@ -1,0 +1,24 @@
+.background {
+    background-color: #171717;
+}
+
+.logo {
+  background: center no-repeat url(logo.svg);
+  position: absolute;
+  top: auto;
+  bottom: auto;
+  left: auto;
+  right: auto;
+  margin : auto;
+  height: 250px; width: 250px;
+}
+
+.progressBar {
+  background-color: rgb(255, 0, 0);
+}
+
+.splash {
+  background: center no-repeat url(logoReady.svg);
+  background-color: #000;
+  background-size: contain;
+}
